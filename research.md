@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Travel"
+title: "Research"
 ---
 
 ### published research
@@ -10,10 +10,22 @@ title: "Travel"
 <div class="research-project">
     <h4>A phylogenetic contribution to understanding the panzootic spread of African swine fever: from the global to the local scale</h4>
     <h5>2025</h5>
+    <h6>Gianluigi Rossi, E Carol McWilliam Leitch, Jake Graham, Roberta Biccheri, Carmen Iscaro, Claudia Torresi, Samantha J Lycett, Francesco Feliziani, Monica Giammarioli</h6>
+    <h5><i>Virus Evolution</i></h5>
     <div class="project-tags">
-        <div class="tag-box">ABSTRACT</div>
-        <div class="tag-box">LINK</div>
-        <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+        <div class="tag-box abstract-toggle">ABSTRACT</div>
+        <a href="https://academic.oup.com/ve/article/12/1/veaf103/8402466" target="_blank" class="tag-box">LINK</a>
+        <div class="info-wrapper">
+            <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+            <div class="info-tooltip">
+                <p>Rossi et al.'s study built on work undertaken during my bachelor's dissertation.</p>
+            </div>
+        </div>
+    </div>
+    <div class="abstract-box">
+        <p>
+            African Swine Fever virus has become a primary concern for veterinarian health agencies and pig producers worldwide. The current panzootic of the virus genotype II is having a devastating impact on pig production in Africa, Europe, Asia, Oceania, and Hispaniola (Caribbean). Due to its high persistence and mortality rate, disease control policies require enhanced passive surveillance, wild boar depopulation, containment, and other costly interventions, as a safe and effective vaccine is not currently available. Since 2007, several disease clusters have emerged far from both its original range (South-Eastern Africa) and from other affected suid populations. These transmissions were likely caused by anthropogenic movement, facilitated by the virus persistence in the environment and on contaminated material. The objective of this research was to understand the spatio-temporal dynamics of the African Swine Fever virus panzootic, with a specific focus on clusters from mainland Italy. We mapped and analysed the virus spread using 228 whole-genome sequences available from online repositories and from the Italian cases/outbreaks, combined with their metadata. We inferred pathogen phylogenies using a Bayesian phylodynamic model, with which we obtained a time-scaled and spatially explicit maximum clade credibility tree. Our results indicate that the Eurasian genotype II panzootic originated in Africa around 20 years ago (September 2003–May 2007) and showed long-distance transmissions across regions or continents within a short time frame, including from Europe to East Asia and from South-Eastern to Western Africa. Dense local dynamics, particularly in areas where the disease affected a naïve population, were also observed. The distribution of spatial distances inferred along the trees’ branches further highlighted these trends and revealed how previously observed survival times in pork products could allow the virus to traverse distances up to 900 km (in 137 days). Finally, from the available data, we identified at least seven separate introductions in Europe, of which at least three caused new clusters on mainland Italy. This study provides important insights on the African Swine Fever virus introduction into many affected areas worldwide and highlights the crucial role of genomic surveillance in correctly tracking the pathogen spread and monitoring the virus potential evolution.
+        </p>
     </div>
 </div>
 
@@ -25,10 +37,20 @@ title: "Travel"
     <h4>Predicting Novel Enzymes in Trypanosomes using Unsupervised Learning and Molecular Docking</h4>
     <h5>2025</h5>
     <div class="project-tags">
-        <div class="tag-box">ABSTRACT</div>
-        <div class="tag-box">PDF</div>
-        <div class="tag-box">CODE</div>
-        <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+        <div class="tag-box abstract-toggle">ABSTRACT</div>
+        <a href="{{ '/assets/JG_MSc_Project_31.12.25.pdf' | relative_url }}" target="_blank" class="tag-box">PDF</a>
+        <a href="https://github.com/jgraham-civ/MSc-Project" target="_blank" class="tag-box">CODE</a>
+        <div class="info-wrapper">
+            <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+            <div class="info-tooltip">
+                <p>This project was completed in fulfilment of my master's dissertation.</p>
+            </div>
+        </div>
+    </div>
+    <div class="abstract-box">
+        <p>
+            Protein sequence discovery has accelerated dramatically in recent years. However, experimental functional characterisation—especially in non-model organisms—has not kept pace. Leveraging recent innovations in deep learning, this study presents a computational framework that narrows large, poorly annotated proteomes to a small set of candidate proteins with a shared, hypothesised function that can be prioritised for experimental follow-up. We design this pipeline to identify putative histone methyltransferases in Trypanosoma brucei, a kinetoplastid parasite responsible for vector-borne human and animal diseases. In particular, we aim to find an enzyme responsible for N-terminal methylation of histone H3, which has been implicated in chromosome segregation fidelity and may represent a trypanosome-specific regulatory mechanism. Using Evolutionary Scale Modelling (ESM-1b/ESM-2) to generate proteome-wide embeddings, t-distributed stochastic neighbour embedding (t-SNE) was applied to visualise structural, evolutionary, and functional similarity against curated methyltransferase reference datasets. Candidates were selected based on localisation to reference clusters and structurally modelled with Boltz-2 in complex with histone H3 and S-adenosyl methionine (SAM), the predicted methyl donor. Ligand binding was evaluated with GNINA, and catalytic targets predicted from binding site geometry. Of 61 initial candidates, 51 met affinity thresholds for predicted SAM-binding activity, with 13 predicted as competent for methylation of histone H3 residues. The final ranked list was enriched for proteins with putative annotations supporting the biological plausibility of predictions. Importantly, we nominate one potential N-terminal methyltransferase for high-priority experimental follow-up. This work demonstrates that combining unsupervised representation learning with cofolding and docking offers a scalable and flexible framework for guiding experimental functional validation in poorly annotated proteomes across the tree of life.
+        </p>
     </div>
 </div>
 
@@ -38,8 +60,42 @@ title: "Travel"
     <h4>Phylogeographic Analysis of the Global Spread and Evolution of African Swine Fever Virus</h4>
     <h5>2024</h5>
     <div class="project-tags">
-        <div class="tag-box">ABSTRACT</div>
-        <div class="tag-box">PDF</div>
-        <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+        <div class="tag-box abstract-toggle">ABSTRACT</div>
+        <a href="{{ '/assets/JG_Honours_Project_Dissertation_02.05.24.pdf' | relative_url }}" target="_blank" class="tag-box">PDF</a>
+        <div class="info-wrapper">
+            <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+            <div class="info-tooltip">
+                <p>This project was completed in fulfilment of my bachelor's dissertation.</p>
+            </div>
+        </div>
+    </div>
+    <div class="abstract-box">
+        <p><b>lay abstract:</b></p>
+        <p>
+            Elucidating the spatio-temporal dynamics of pathogen spread can inform intervention strategies against African Swine Fever (ASF), a deadly viral disease of domestic pigs and wild boar. Originally endemic to Africa, the ASF virus (ASFV) has spread rapidly throughout Europe and Asia since 2007, causing severe losses to the pork industry and threatening food security. Here, we analysed the genome sequences of over 150 virus isolates from around the world to track ASFV movements and evolution over the past few decades. The available cleaned data were processed using a computational model which uses the differences between the sequences—as a result of mutations over time—to estimate the virus’ genealogy. We identified many transmission events covering a vast distance in a short period of time, hinting that international trade of contaminated pork products may potentially drive dissemination. Lastly, the report looked at an ASFV variant thought to have an increased mutation rate. Though this was not evident in the model, any potential effect may only be observable in specific genes. The variant, which contains a mutation in the O174L gene, did show subtle differences in its genome structure, however, suggesting that it may be biased toward certain mutations.
+        </p>
+        <p><b>abstract:</b></p>
+        <p>
+            African Swine Fever (ASF) is a deadly haemorrhagic disease of domestic pigs and wild boar. Originally endemic to Africa, it was identified in Georgia in 2007 and has since spread rapidly throughout Europe and Asia with devastating consequences for animal health and food security. In this report, we applied Bayesian phylogenetic and discrete trait analysis techniques to 153 ASF virus (ASFV) genotype II whole-genome sequences. The model established evolutionary relationships between isolates from which to reconstruct ASFV movements and estimate outbreak origins, elucidating its spatio-temporal transmission dynamics. Multiple transmission events covering vast distances in a short time frame highlight international trade in contaminated pork products as a potential driver of ASFV dissemination. East Asia was identified as a transmission hotspot, being the source of incursions to many Southeast Asian nations and Hungary. Lastly, the report looked at viruses harbouring a mutation in the ASFV polymerase X gene, O174L, which has been linked to increased rates of variant emergence in Germany. The analysis found no evidence of an increased clock rate at a genome-wide level, though potential effects may be specific to protein-coding genes. Differences in variants’ dinucleotide composition were found, however, such that O174L variants may possess a substitution bias.
+        </p>
     </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const toggles = document.querySelectorAll(".abstract-toggle");
+
+    toggles.forEach(toggle => {
+        toggle.addEventListener("click", function() {
+            const abstractBox = this.closest(".research-project")
+                                    .querySelector(".abstract-box");
+
+            if (abstractBox.style.display === "block") {
+                abstractBox.style.display = "none";
+            } else {
+                abstractBox.style.display = "block";
+            }
+        });
+    });
+});
+</script>
