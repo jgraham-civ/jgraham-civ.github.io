@@ -32,7 +32,7 @@ footer a { color: #E16158; text-decoration: none; transition: all 0.2s ease; }
 
 footer a:hover { text-decoration: underline; }
 
-/* Page contenxt general typography */
+/* Page content general typography */
 .page-content { width: 40%; margin: 0 auto; }
 
 /* Headings */
@@ -76,9 +76,31 @@ footer a:hover { text-decoration: underline; }
 
 .research-project .abstract-box { margin-top: 15px; padding: 15px; border: 1px dashed #c9c9c9; border-radius: 4px; display: none; }
 
-.latam-travel { text-align: center; margin-top: 40px; }
+.travel { text-align: center; margin-top: 40px; }
 
-.latam-travel img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.travel img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+
+/* Travel page navigation */
+.travel-nav { width: 100%; margin-top: 25px; }
+
+.travel-nav a { text-decoration: none; color: inherit; }
+
+/* Base box style */
+.travel-box { width: 100%; display: flex; justify-content: space-between; align-items: center; transition: all 0.3s ease; }
+
+/* Left and right text */
+.travel-box .left { font-family: 'IBM Plex Serif', serif; font-weight: 400; font-size: 1.2em; }
+
+.travel-box .right { font-family: 'Figtree', sans-serif; font-weight: 300; color: #969696; }
+
+/* Current page (top box) */
+.travel-box.current { font-size: 1.3rem; margin-bottom: 20px; }
+
+/* Secondary link (bottom box) */
+.travel-box.secondary { font-size: 0.8rem; }
+
+/* Hover only affects secondary box */
+.travel-box.secondary:hover { color: #E16158; }
 
 /* Generic toggle box (used for ABSTRACT and READ) */
 .toggle-box, .tag-box { display: inline-flex; align-items: center; justify-content: center; font-family: 'Source Code Pro', monospace; font-size: 0.75em; padding: 6px 10px; border: 1px solid #c9c9c9; border-radius: 4px; cursor: pointer; transition: all 0.3s ease; text-decoration: none; /* ensure no underline */ color: inherit; /* override global link color */ }
