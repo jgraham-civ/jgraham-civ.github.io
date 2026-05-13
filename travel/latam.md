@@ -22,7 +22,18 @@ title: "Travel"
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
-        <p>[Left: Tikal's temples rising above the tree canopy, as viewed from Temple V; Right: A view of Temple I from the ruins of the Central Acropolis]</p>
+        <p>[Above: A young man jumps off a diving board at The Split]</p>
+        <p><b>Caye Caulker:</b></p>
+        <p>Belize is the black sheep of Central American countries. It is bordered by Mexico to the north, and Guatemala to the south and west, but claims a more Caribbean than Latin identity due in part to its status as a former British slave colony. Today, Belize is a melting pot of cultures, languages and ethnicities, with substantial populations of Mayan, African, East Asian, and even Mennonite (Amish) Belizeans.</p>
+        <p>Caye Caulker feels particularly Caribbean. Belizean Creole and afrobeat music are heard everywhere, ‘Rude Boy’ — a vodka-based drink with caffeine, ginseng and natural aphrodisiacs— lines the shelves of all stores, and Jerk Chicken is top of the menu at every food outlet.</p>
+    </div>
+  </div>
+
+  <img src="{{ '/assets/images/latam-2.jpg' | relative_url }}" alt="LATAM travel 2">
+  <div class="toggle-container">
+    <div class="toggle-box read-toggle">READ</div>
+    <div class="toggle-content">
+        <p>[Above: A view of Temple I from the ruins of the Central Acropolis]</p>
         <p><b>Tikal:</b></p>
         <p>The Maya civilisation was a collection of city states with a shared culture and related languages, more akin to Ancient Greece than the centralised empire of Ancient Rome. Of these, Chichen Itza (in Mexico) is the most famous. The city's historical importance and impressive showcasing of Mayan engineering, astronomy, religion, and cultural practices has earned Chichen Itza status as one of the New 7 Wonders of the World.</p>
         <p>Lesser known is the Mayan city of Tikal, whose ruins are nestled deep in the jungle an hour’s drive north of Flores, Guatemala.</p>
@@ -31,22 +42,11 @@ title: "Travel"
     </div>
   </div>
 
-  <img src="{{ '/assets/images/latam-2.jpg' | relative_url }}" alt="LATAM travel 2">
-  <div class="toggle-container">
-    <div class="toggle-box read-toggle">READ</div>
-    <div class="toggle-content">
-        <p>[Left: A young man jumps off a diving board at The Split; Right: Pelicans eye a stingray gliding beneath them at Stingray Beach]</p>
-        <p><b>Caye Caulker:</b></p>
-        <p>Belize is the black sheep of Central American countries. It is bordered by Mexico to the north, and Guatemala to the south and west, but claims a more Caribbean than Latin identity due in part to its status as a former British slave colony. Today, Belize is a melting pot of cultures, languages and ethnicities, with substantial populations of Mayan, African, East Asian, and even Mennonite (Amish) Belizeans.</p>
-        <p>Caye Caulker feels particularly Caribbean. Belizean Creole and afrobeat music are heard everywhere, ‘Rude Boy’ — a vodka-based drink with caffeine, ginseng and natural aphrodisiacs— lines the shelves of all stores, and Jerk Chicken is top of the menu at every food outlet.</p>
-    </div>
-  </div>
-
   <img src="{{ '/assets/images/latam-3.jpg' | relative_url }}" alt="LATAM travel 3">
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
-        <p>[Left: Tourists walk the Bastion of San Ignacio; Right: The Santa Catalina de Alejandría cathedral is reflected in a puddle in San Pedro Claver plaza]</p>
+        <p>[Above: Tourists walk the Bastion of San Ignacio]</p>
         <p><b>Cartagena:</b></p>
         <p>As a hub for the export of Bolivian silver and for the import of African slaves, Cartagena grew rapidly in both wealth and strategic importance throughout the colonial era; before long, everyone wanted a piece of it. The Museo Naval del Caribe chronicles the incessant raids, sieges, and bombardments of the city at the hands of navies and pirates from England (surprise!), France, and the Netherlands, while the several dozen miniatures of forts and battlements (some still standing, but many more destroyed) illustrate the lengths taken to protect it.</p>
         <p>Nowadays, Colombia's Cartagena is the jewel of its Carribbean coast. Its beautifully preserved pastel fascades, typical of Spanish colonial architecture, attract tourists from far and wide. Next to the old walled city is the much-gentrified neighbourhood of Getsemani, where at night bars and clubs spill out onto narrow streets, serving strong cocktails to pedestrians jostling with food stalls and busking dancers for space. The foot-traffic is insane.</p>
@@ -57,7 +57,7 @@ title: "Travel"
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
-        <p>[Top: A sprawling Medellin as viewed from Comuna 13; Middle: Pedestrians walking in Plaza Cisneros; Bottom: Houses of the hillside neighbourhood of Comuna 13]</p>
+        <p>[Top: A sprawling Medellin as viewed from Comuna 13; Bottom: Pedestrians walking in Plaza Cisneros]</p>
         <p><b>Medellin:</b></p>
         <p>Following several decades of crippling violence at the bloody hands of cartels and paramilitary groups, the City of Eternal Spring has experienced a dramatic revival of which the residents are rightfully proud. From the new metro system, cable car lines, and giant EPM Public Library, to the transformation of Comuna 13 into a vibrant arts and music hub, evidence of this resurgence can be seen everywhere. Besides the dense mountainside barrios, the city is also extremely green. In academic circles, Medellin is viewed as a poster child for modern urban development.</p>
         <p>We were kept very busy during our week here. We soaked up the atmosphere of downtown and Comuna 13 on guided tours, watched the country’s largest football club (Atletico Nacional) play at the Atanasio Girardot Stadium (the lungs on their ultras!), and sampled the city’s nightlife— alive Monday through Sunday.</p>
@@ -68,6 +68,16 @@ title: "Travel"
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
+        <p>[Above: The waters of the Guatapé reservoir branch out into the valley hills, as seen from the summit of La Piedra del Peñol]</p>
+        <p><b>Guatapé:</b></p>
+        <p>In the outskirts of Medellin on our way to Guatapé, foot salesmen weaved between highway traffic and hopped on buses— still moving— to sell bread and water. Further into the countryside we drove past farm shops and garden centres as vibrant as any in rural England. After our hike up the rock, the Guatape reservoir and its islands unfolded beneath us in a panorama one might mistake for New Zealand or Canada.</p>
+    </div>
+  </div>
+
+  <img src="{{ '/assets/images/latam-6.jpg' | relative_url }}" alt="LATAM travel 6">
+  <div class="toggle-container">
+    <div class="toggle-box read-toggle">READ</div>
+    <div class="toggle-content">
         <p>[Above: Paintbrush-like wax palms dot the hills of Cocora Valley]</p>
         <p><b>Salento:</b></p>
         <p>Salento is a quaint town in the heart of Colombia’s Eje Cafetero (Coffee Axis) region, popular among tourists for its colourful colonial houses, coffee estates, and proximity to the Cocora Valley.</p>
@@ -75,28 +85,44 @@ title: "Travel"
     </div>
   </div>
   
-  <img src="{{ '/assets/images/latam-6.jpg' | relative_url }}" alt="LATAM travel 6">
+  <img src="{{ '/assets/images/latam-7.jpg' | relative_url }}" alt="LATAM travel 7">
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
-        <p>[Top-left: Tourists peer down from the staggered pyramids of the Huaca Pucllana archaeological complex; Top-right: Tourists wander the ruins of Huaca Pucllana; Bottom-left: Ica's residential areas sprawl out into the Ica desert; Bottom-right: A backpacker pauses to rest while climbing up a sand dune]</p>
+        <p>[Top: Tourists peer down from the staggered pyramids of the Huaca Pucllana archaeological complex; Bottom: Tourists wander the ruins of Huaca Pucllana]</p>
         <p><b>Lima:</b></p>
         <p>I regret that I didn’t better explore Peru’s sprawling capital, though its size makes it difficult to see fully; with over 10 million residents, it is the second largest city in the Americas.</p>
         <p>In the heart of the Miraflores district we visited the mysterious  archaeological complex, previously a ceremonial and administrative centre of the pre-Incan “Lima Culture”. The 22-metre-high staggered pyramid and the surrounding urban zones are all built of adobe bricks and date back to around 400 CE.</p>
+    </div>
+  </div>
+
+  <img src="{{ '/assets/images/latam-8.jpg' | relative_url }}" alt="LATAM travel 8">
+  <div class="toggle-container">
+    <div class="toggle-box read-toggle">READ</div>
+    <div class="toggle-content">
+        <p>[Top: Ica's residential areas sprawl out into the Ica desert; Bottom: A backpacker pauses to rest while climbing up a sand dune]</p>
         <p><b>Ica:</b></p>
         <p>After five days in Lima we caught a bus south along Peru’s puninishingly arid Pacific coast towards the city of Ica, only a short way inland and pressed against the Ica desert to the southwest. Here, dust turns to sand and forms dunes up to 200 metres high. Tucked away amongst them is the Huacachina oasis, a popular backpackers' retreat.</p>
     </div>
   </div>
 
-  <img src="{{ '/assets/images/latam-7.jpg' | relative_url }}" alt="LATAM travel 7">
+  <img src="{{ '/assets/images/latam-9.jpg' | relative_url }}" alt="LATAM travel 9">
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
-        <p>[Top-left: My friends wait for me at the Paracas National Reserve checkpoint; Top-right: a bird glides in front of rusting mining infrastructure on the Ballestas Islands; Middle-left: The Basilica Cathedral of Arequipa as seen from the central square; Middle-right: A red car pulls onto Calle Sucre; Bottom-left: A small courtyard in the Santa Catalina monastery; Bottom-right: A view over the Santa Catalina monastery]</p>
+        <p>[Top: Backpackers refuel at the entry point to the Paracas National Reserve; Bottom: a bird glides by rusting mining infrastructure on the Ballestas Islands]</p>
         <p><b>Paracas:</b></p>
         <p>It is hard to put to paper how impressive and other-worldly the landscape of the Paracas National Reserve is. It might be lazy to describe it as looking like Mars, but standing at any viewpoint that is truly how it feels. It is dry, it is rocky, and there is not a single tree, shrub, or blade of grass as far as the eye can see. And yet, the ocean surrounding it is incredibly nutrient-rich and biodiverse, supporting approximately 200 species of seabirds, several marine mammals, sharks, and the fish on which they feed.</p>
         <p>Nearby are the Ballestas Islands, a group of small, rocky islands whose cliffs, arches, and outcrops cut razor-sharp outlines. The islands provide sanctuary to enormous colonies of Guanay cormorants, Peruvian boobies, Humboldt penguins, fur seals and sea lions (to name a few).</p>
         <p>Real estate on the Ballestas Islands is scarce, and such dense bird populations produce large amounts of guano (bird excrement). Guano used to be highly coveted as a crop fertiliser from the mid-1800s to the early 1900s—before the invention of synthetic substitutes. The terrain is still scattered with rusty and weathered mining infrastructure erected to capitalise on the demand. Such extensive mining severely damaged the natural environment until measures were taken in the early 1900s to limit extraction and protect the islands’ wildlife. Some mining still occurs today, but is highly regulated. Rather, the islands have become more important as a tourist attraction and as sites of scientific research.</p>
+    </div>
+  </div>
+
+  <img src="{{ '/assets/images/latam-10.jpg' | relative_url }}" alt="LATAM travel 10">
+  <div class="toggle-container">
+    <div class="toggle-box read-toggle">READ</div>
+    <div class="toggle-content">
+        <p>[Top: A red car pulls onto Calle Sucre; Second from top: A view over the Santa Catalina monastery; Second from bottom: A small courtyard in the Santa Catalina monastery; Bottom: The Basilica Cathedral of Arequipa as seen from the central square]</p>
         <p><b>Arequipa:</b></p>
         <p>Arequipa has one of the most beautiful old towns—and the most beautiful central plaza—of any city we visited on this trip. The entire district, including its churches, banks, cafes, museums, and the massive Basilica Cathedral, is constructed from sillar, a white volcanic rock that gives the city a brilliant architectural consistency as well as its nickname (“The White City”).</p>
         <p>On our second day here we visited the Santa Catalina Monastery. Despite being in the heart of Arequipa, this walled citadel remained entirely disconnected from the city for 391 years before being opened to the public in 1970. Prior to this, contact was limited to the passing of provisions and notes through a handful of small rotating doors.</p>
@@ -105,7 +131,7 @@ title: "Travel"
     </div>
   </div>
 
-  <img src="{{ '/assets/images/latam-8.jpg' | relative_url }}" alt="LATAM travel 8">
+  <img src="{{ '/assets/images/latam-11.jpg' | relative_url }}" alt="LATAM travel 11">
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
@@ -116,14 +142,11 @@ title: "Travel"
     </div>
   </div>
 
-  <img src="{{ '/assets/images/latam-9.jpg' | relative_url }}" alt="LATAM travel 9">
-  
-  <img src="{{ '/assets/images/latam-10.jpg' | relative_url }}" alt="LATAM travel 10">
-  <img src="{{ '/assets/images/latam-11.jpg' | relative_url }}" alt="LATAM travel 11">
+  <img src="{{ '/assets/images/latam-12.jpg' | relative_url }}" alt="LATAM travel 12">
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
-        <p>[Top-left: Coaches block the roads during a strike over rising petrol and diesel prices following the "Gasolinazo Decree", which has since been revoked; Top-right: An old VW Beetle drives by La Paz's Plaza Mayor de San Francisco; Middle: A referee is pulled to the floor by a Cholita wrestler, to the delight of the crowd; Bottom: A cholitas wrestling-themed postcard]</p>
+        <p>[Top: Coaches block the roads during a strike over rising petrol and diesel prices following the "Gasolinazo Decree", which has since been revoked; Middle: A referee is pulled to the floor by a Cholita wrestler, to the delight of the crowd; Bottom: A cholitas wrestling postcard]</p>
         <p><b>La Paz:</b></p>
         <p>Flowing through a canyon between the Altiplano plateau and the Cordillera Real mountain range, its unique topography has created an amazing cityscape that can be admired from almost any angle. The best way do to this is with Mi Teleférico, the cable car and mass transit system which serves the city. My friends and I spent an afternoon with our noses pressed against the cable car windows, going nowhere in particular and having a brilliant time.</p>
         <p>At street level the city is considerably more chaotic. Minivans belch out diesel fumes millimetres from pedestrians jostling for limited pavement space, currency exchanges trade US dollars for black market rates, and on their commutes, city businesspeople stroll past the bullet-ridden doors of the city’s largest prison.</p>
@@ -132,13 +155,13 @@ title: "Travel"
         <p>La Paz is not an architectural marvel. What it is, however, is a city so constantly active and rich with lore that you can’t help but be absorbed by it. It has to be said that much of the city's excitement for backpackers is rooted in a long-struggling economy: From the corruption of San Pedro prison to the US dollar black market, to the strikes against fuel subsidy cuts—these reflect a country in need of change, and I do hope Bolivia finds greener pastures in the years to come.</p>
     </div>
   </div>
-  <img src="{{ '/assets/images/latam-12.jpg' | relative_url }}" alt="LATAM travel 12">
+
   <img src="{{ '/assets/images/latam-13.jpg' | relative_url }}" alt="LATAM travel 13">
   <img src="{{ '/assets/images/latam-14.jpg' | relative_url }}" alt="LATAM travel 14">
   <div class="toggle-container">
     <div class="toggle-box read-toggle">READ</div>
     <div class="toggle-content">
-        <p>[Top: The mountains of Eduardo Avaroa National Reserve frame many of the region's lakes; Second from top: Friends pose for a photo on top of a 4x4 in the Uyuni Salt Flat; Middle: Flamingoes feed in the lakes of Eduardo Avaroa National Reserve; Second from bottom: A traveller has her knee bandaged in the back of a 4x4; Bottom: The Uyuni Salt Flat surrounds Incahuasi Island and its giant cacti]</p>
+        <p>[Top: The mountains of the Eduardo Avaroa National Reserve frame many of the region's lakes; Second from top: Friends pose for a photo on top of a 4x4 in the Uyuni Salt Flat; Middle: Flamingoes feed in the lakes of the Eduardo Avaroa National Reserve; Second from bottom: A backpacker has her knee bandaged in the back of a 4x4; Bottom: The Uyuni Salt Flat surrounds Incahuasi Island and its giant cacti]</p>
         <p><b>Salar de Uyuni:</b></p>
         <p>Salar de Uyuni is the largest salt pan in the world, created after a large, prehistoric inland lake system evaporated to leave behind an enormous quantity of previously dissolved salts and minerals. This exceptionally flat white crust is so huge that it is visible from space. It is completely barren of any buildings, fauna, or vegetation, save for the giant cacti on Incahuasi Island, a bizarre rocky outcrop jutting out of the middle of the salt sea. From the top of this island the scale of the flat is laid bare, at points reaching beyond the horizon. The sunset was glorious, not just for the colours of the cloudless sky and the feeling of remoteness, but also because the reflection of sunlight off the salt had been torturing my eyes all day, even with sunglasses.</p>
         <p><b>Eduardo Avaroa National Reserve:</b></p>
