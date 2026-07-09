@@ -29,6 +29,28 @@ title: "Research"
     </div>
 </div>
 
+<div class="research-project">
+    <h4>A complete catalogue of human-infective RNA viruses</h4>
+    <h5>2026</h5>
+    <h6>Feifei Zhang, Lu Lu,  Liam Brierley, Helmi Hietanen, Mark E. J. Woolhouse</h6>
+    <h5><i>Scientific Data</i></h5>
+    <div class="project-tags">
+        <div class="toggle-box abstract-toggle">ABSTRACT</div>
+        <a href="https://www.nature.com/articles/s41597-026-07281-5" target="_blank" class="tag-box">LINK</a>
+        <div class="info-wrapper">
+            <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+            <div class="info-tooltip">
+                <p>I am acknowledged for updating this catalogue during my internship at the University of Edinburgh, in 2023.</p>
+            </div>
+        </div>
+    </div>
+    <div class="toggle-content">
+        <p>
+            RNA viruses are a pervasive and serious threat to human health. Here, we provide an updated catalogue of all 239 human-infective RNA virus species recognised by the end of 2024. Based on extensive literature searches, we provide metadata on the date and location of the first reported case of human infection, transmissibility in human populations, transmission route(s) and host range. We also provide links to publicly available genome sequence data. The dataset can be used in studies of the relationships between virus traits and public health threat, the phylogenetics of those traits, the geography of emerging RNA viruses, projections of future discovery rates, and estimates of viral diversity.
+        </p>
+    </div>
+</div>
+
 ### unpublished research
 
 <hr style="border: 0; height: 1px; background-color: #c9c9c9; margin-top: 20px; margin-bottom: 20px; width: 100%">
@@ -49,7 +71,7 @@ title: "Research"
     </div>
     <div class="toggle-content">
         <p>
-            Protein sequence discovery has accelerated dramatically in recent years. However, experimental functional characterisation—especially in non-model organisms—has not kept pace. Leveraging recent innovations in deep learning, this study presents a computational framework that narrows large, poorly annotated proteomes to a small set of candidate proteins with a shared, hypothesised function that can be prioritised for experimental follow-up. We design this pipeline to identify putative histone methyltransferases in Trypanosoma brucei, a kinetoplastid parasite responsible for vector-borne human and animal diseases. In particular, we aim to find an enzyme responsible for N-terminal methylation of histone H3, which has been implicated in chromosome segregation fidelity and may represent a trypanosome-specific regulatory mechanism. Using Evolutionary Scale Modelling (ESM-1b/ESM-2) to generate proteome-wide embeddings, t-distributed stochastic neighbour embedding (t-SNE) was applied to visualise structural, evolutionary, and functional similarity against curated methyltransferase reference datasets. Candidates were selected based on localisation to reference clusters and structurally modelled with Boltz-2 in complex with histone H3 and S-adenosyl methionine (SAM), the predicted methyl donor. Ligand binding was evaluated with GNINA, and catalytic targets predicted from binding site geometry. Of 61 initial candidates, 51 met affinity thresholds for predicted SAM-binding activity, with 13 predicted as competent for methylation of histone H3 residues. The final ranked list was enriched for proteins with putative annotations supporting the biological plausibility of predictions. Importantly, we nominate one potential N-terminal methyltransferase for high-priority experimental follow-up. This work demonstrates that combining unsupervised representation learning with cofolding and docking offers a scalable and flexible framework for guiding experimental functional validation in poorly annotated proteomes across the tree of life.
+            Protein sequence discovery has accelerated dramatically in recent years. However, experimental functional characterisation—especially in non-model organisms—has not kept pace. Leveraging recent innovations in deep learning, this study presents a computational framework that narrows large, poorly annotated proteomes to a small set of candidate proteins with a shared, hypothesised function that can be prioritised for experimental follow-up. We design this pipeline to identify putative histone methyltransferases in <i>Trypanosoma brucei</i>, a kinetoplastid parasite responsible for vector-borne human and animal diseases. In particular, we aim to find an enzyme responsible for N-terminal methylation of histone H3, which has been implicated in chromosome segregation fidelity and may represent a trypanosome-specific regulatory mechanism. Using Evolutionary Scale Modelling (ESM-1b/ESM-2) to generate proteome-wide embeddings, t-distributed stochastic neighbour embedding (t-SNE) was applied to visualise structural, evolutionary, and functional similarity against curated methyltransferase reference datasets. Candidates were selected based on localisation to reference clusters and structurally modelled with Boltz-2 in complex with histone H3 and S-adenosyl methionine (SAM), the predicted methyl donor. Ligand binding was evaluated with GNINA, and catalytic targets predicted from binding site geometry. Of 61 initial candidates, 51 met affinity thresholds for predicted SAM-binding activity, with 13 predicted as competent for methylation of histone H3 residues. The final ranked list was enriched for proteins with putative annotations supporting the biological plausibility of predictions. Importantly, we nominate one potential N-terminal methyltransferase for high-priority experimental follow-up. This work demonstrates that combining unsupervised representation learning with cofolding and docking offers a scalable and flexible framework for guiding experimental functional validation in poorly annotated proteomes across the tree of life.
         </p>
     </div>
 </div>
