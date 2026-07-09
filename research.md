@@ -8,28 +8,6 @@ title: "Research"
 <hr style="border: 0; height: 1px; background-color: #c9c9c9; margin-top: 20px; margin-bottom: 20px; width: 100%">
 
 <div class="research-project">
-    <h4>A phylogenetic contribution to understanding the panzootic spread of African swine fever: from the global to the local scale</h4>
-    <h5>2025</h5>
-    <h6>Gianluigi Rossi, E Carol McWilliam Leitch, Jake Graham, Roberta Biccheri, Carmen Iscaro, Claudia Torresi, Samantha J Lycett, Francesco Feliziani, Monica Giammarioli</h6>
-    <h5><i>Virus Evolution</i></h5>
-    <div class="project-tags">
-        <div class="toggle-box abstract-toggle">ABSTRACT</div>
-        <a href="https://academic.oup.com/ve/article/12/1/veaf103/8402466" target="_blank" class="tag-box">LINK</a>
-        <div class="info-wrapper">
-            <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
-            <div class="info-tooltip">
-                <p>Rossi et al.'s study built on work undertaken during my bachelor's dissertation.</p>
-            </div>
-        </div>
-    </div>
-    <div class="toggle-content">
-        <p>
-            African Swine Fever virus has become a primary concern for veterinarian health agencies and pig producers worldwide. The current panzootic of the virus genotype II is having a devastating impact on pig production in Africa, Europe, Asia, Oceania, and Hispaniola (Caribbean). Due to its high persistence and mortality rate, disease control policies require enhanced passive surveillance, wild boar depopulation, containment, and other costly interventions, as a safe and effective vaccine is not currently available. Since 2007, several disease clusters have emerged far from both its original range (South-Eastern Africa) and from other affected suid populations. These transmissions were likely caused by anthropogenic movement, facilitated by the virus persistence in the environment and on contaminated material. The objective of this research was to understand the spatio-temporal dynamics of the African Swine Fever virus panzootic, with a specific focus on clusters from mainland Italy. We mapped and analysed the virus spread using 228 whole-genome sequences available from online repositories and from the Italian cases/outbreaks, combined with their metadata. We inferred pathogen phylogenies using a Bayesian phylodynamic model, with which we obtained a time-scaled and spatially explicit maximum clade credibility tree. Our results indicate that the Eurasian genotype II panzootic originated in Africa around 20 years ago (September 2003–May 2007) and showed long-distance transmissions across regions or continents within a short time frame, including from Europe to East Asia and from South-Eastern to Western Africa. Dense local dynamics, particularly in areas where the disease affected a naïve population, were also observed. The distribution of spatial distances inferred along the trees’ branches further highlighted these trends and revealed how previously observed survival times in pork products could allow the virus to traverse distances up to 900 km (in 137 days). Finally, from the available data, we identified at least seven separate introductions in Europe, of which at least three caused new clusters on mainland Italy. This study provides important insights on the African Swine Fever virus introduction into many affected areas worldwide and highlights the crucial role of genomic surveillance in correctly tracking the pathogen spread and monitoring the virus potential evolution.
-        </p>
-    </div>
-</div>
-
-<div class="research-project">
     <h4>A complete catalogue of human-infective RNA viruses</h4>
     <h5>2026</h5>
     <h6>Feifei Zhang, Lu Lu,  Liam Brierley, Helmi Hietanen, Mark E. J. Woolhouse</h6>
@@ -47,6 +25,30 @@ title: "Research"
     <div class="toggle-content">
         <p>
             RNA viruses are a pervasive and serious threat to human health. Here, we provide an updated catalogue of all 239 human-infective RNA virus species recognised by the end of 2024. Based on extensive literature searches, we provide metadata on the date and location of the first reported case of human infection, transmissibility in human populations, transmission route(s) and host range. We also provide links to publicly available genome sequence data. The dataset can be used in studies of the relationships between virus traits and public health threat, the phylogenetics of those traits, the geography of emerging RNA viruses, projections of future discovery rates, and estimates of viral diversity.
+        </p>
+    </div>
+</div>
+
+<hr style="border: 0; height: 1px; background-color: #c9c9c9; margin-top: 20px; margin-bottom: 20px; width: 100%">
+
+<div class="research-project">
+    <h4>A phylogenetic contribution to understanding the panzootic spread of African swine fever: from the global to the local scale</h4>
+    <h5>2025</h5>
+    <h6>Gianluigi Rossi, E Carol McWilliam Leitch, Jake Graham, Roberta Biccheri, Carmen Iscaro, Claudia Torresi, Samantha J Lycett, Francesco Feliziani, Monica Giammarioli</h6>
+    <h5><i>Virus Evolution</i></h5>
+    <div class="project-tags">
+        <div class="toggle-box abstract-toggle">ABSTRACT</div>
+        <a href="https://academic.oup.com/ve/article/12/1/veaf103/8402466" target="_blank" class="tag-box">LINK</a>
+        <div class="info-wrapper">
+            <img src="{{ '/assets/images/info-icon.png' | relative_url }}" class="info-box">
+            <div class="info-tooltip">
+                <p>Rossi et al.'s study built on work undertaken during my bachelor's dissertation.</p>
+            </div>
+        </div>
+    </div>
+    <div class="toggle-content">
+        <p>
+            African Swine Fever virus has become a primary concern for veterinarian health agencies and pig producers worldwide. The current panzootic of the virus genotype II is having a devastating impact on pig production in Africa, Europe, Asia, Oceania, and Hispaniola (Caribbean). Due to its high persistence and mortality rate, disease control policies require enhanced passive surveillance, wild boar depopulation, containment, and other costly interventions, as a safe and effective vaccine is not currently available. Since 2007, several disease clusters have emerged far from both its original range (South-Eastern Africa) and from other affected suid populations. These transmissions were likely caused by anthropogenic movement, facilitated by the virus persistence in the environment and on contaminated material. The objective of this research was to understand the spatio-temporal dynamics of the African Swine Fever virus panzootic, with a specific focus on clusters from mainland Italy. We mapped and analysed the virus spread using 228 whole-genome sequences available from online repositories and from the Italian cases/outbreaks, combined with their metadata. We inferred pathogen phylogenies using a Bayesian phylodynamic model, with which we obtained a time-scaled and spatially explicit maximum clade credibility tree. Our results indicate that the Eurasian genotype II panzootic originated in Africa around 20 years ago (September 2003–May 2007) and showed long-distance transmissions across regions or continents within a short time frame, including from Europe to East Asia and from South-Eastern to Western Africa. Dense local dynamics, particularly in areas where the disease affected a naïve population, were also observed. The distribution of spatial distances inferred along the trees’ branches further highlighted these trends and revealed how previously observed survival times in pork products could allow the virus to traverse distances up to 900 km (in 137 days). Finally, from the available data, we identified at least seven separate introductions in Europe, of which at least three caused new clusters on mainland Italy. This study provides important insights on the African Swine Fever virus introduction into many affected areas worldwide and highlights the crucial role of genomic surveillance in correctly tracking the pathogen spread and monitoring the virus potential evolution.
         </p>
     </div>
 </div>
